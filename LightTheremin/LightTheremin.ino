@@ -2,7 +2,7 @@
 /*
 LightTheremin
 
-Esta es mi propia versión del ejemplo LightThermin del Arduino starter kit.
+Esta es mi propia versión del ejemplo LightTheremin del Arduino starter kit.
 
 Utiliza un fotorresitor para las notas y otro fotorresistor para el ritmo.
 Cada fotorresistor se calibra de forma independiente y la calibración se guarda en la EPROM.
