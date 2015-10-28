@@ -13,3 +13,5 @@ calibrando cada fotorresitor.
 * fotorresistor en pin A1 (ritmo)
 * pushbutton para calibración en pin 12
 * piezo en pin 8
+
+![Foto del circuito](./nlopezcenteno_arduino_lighttheremin.jpg)
