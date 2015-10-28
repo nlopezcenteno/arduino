@@ -2,6 +2,6 @@
 Mis primeros pasos con Arduino
 
 ### [LightTheremin](LightTheremin) ###
-Mi propia versión del ejemplo LightThermin del Arduino starter kit.
+Mi propia versión del ejemplo LightTheremin del Arduino starter kit.
 
 
