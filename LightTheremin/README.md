@@ -15,3 +15,5 @@ calibrando cada fotorresitor.
 * piezo en pin 8
 
 ![Foto del circuito](./nlopezcenteno_arduino_lighttheremin.jpg)
+
+[Video en YouTube](https://youtu.be/jG2n_Eixszo)
